@@ -36,3 +36,22 @@ On peut développer des scripts directement avec les librairies python de l’OG
 
 
 **Parmi ces deux blocs de code, lequel vous parait le plus facile à lire ?**
+
+
+Python dans QGis
+----------------
+
+QGIS fournit une interface de programme d'application (API) Python, qui peut être utilisée pour ajouter de nouvelles fonctionnalités à QGis et donc mieux exploiter les capacités du SIG. Selon Graser et al\footnote{[1] Graser, Anita \& Olaya, Victor. (2015). Processing: A Python Framework for the Seamless Integration of Geoprocessing Tools in QGIS. ISPRS International Journal of Geo-Information. 4. 2219-2245. 10.3390/ijgi4042219.}, les contributions dans QGIs ont augmentées lorsque de nouveaux développeurs ont commencé à ajouter des fonctionnalités à l'aide des plugins Python.
+
+
+Dans QGis, on peut programmer en python à différents niveaux:
+
+* écrire ses instructions et les exécutées dans la console Python de QGis,
+* exécuter automatiquement du code python au démarrage de QGIS,
+* écrire des expressions personnalisées,
+* créer des propres scripts python pour la boite à outils des traitements (en respectant un template),
+* créer des extensions (plugIn) QGis avec des boites de dialogue, des fenêtres graphiques pour que l'utilisateur puisse interagir,
+* créer des applications personnalisées. 
+
+L'avantage de créer ses propres extensions, est que la logique est personnalisée pour le traitement des données. La conception de l'interface graphique est originale. L'inconvénient est qu'il en résulte que chaque plugIn a différentes façons de fonctionner ce qui peut perdre les utilisateurs. Un autre inconvénient des plugIns est que le code ne peut pas être appelé, ou difficilement, par d'autres parties de programme ou d'autres algorithmes.
+
