@@ -17,9 +17,9 @@ Les librairies de l’OGR écrites en C++ sont aussi utilisées par d’autres o
 
 
 .. figure:: img/OverviewLibrairiePythonSIG.png
-   :width: 950px
+   :width: 500px
    :align: center
 
-   Figure : Imbrication des principales librairies géospatiales de l'
+   Figure : Imbrication des principales librairies géospatiales
 
 
