@@ -1,0 +1,8 @@
+sphinx
+recommonmark
+sphinx_rtd_theme
+sphinx-autodoc-typehints
+nbsphinx
+autodocsumm
+pydata-sphinx-theme
+sphinx-book-theme
