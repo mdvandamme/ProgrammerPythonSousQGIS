@@ -1,5 +1,8 @@
-# ProgrammerPythonSousQGIS
-ProgrammerPythonSousQGIS
+# Programmer en Python sous QGIS
+
+
+## Tutorial (in french)
+Ce tutorial pour appréhender la programmation python dans l'environnement QGIS est en ligne: [https://programmerpythonsousqgis.readthedocs.io/fr/latest/](https://programmerpythonsousqgis.readthedocs.io/fr/latest/).
 
 
 ## Licensing
