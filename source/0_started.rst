@@ -35,7 +35,7 @@ On peut développer des scripts directement avec les librairies python de l’OG
     Figure : 2 librairies pour calculer un centroïde
 
 
-**Parmi ces deux blocs de code, lequel vous parait le plus facile à lire ?**
+**Question: Parmi ces deux blocs de code, lequel vous parait le plus facile à lire ?**
 
 
 Python dans QGis

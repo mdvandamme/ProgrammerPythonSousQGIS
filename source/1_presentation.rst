@@ -18,7 +18,7 @@ que l'on soit dans la console de l'application QGis ou dans une extension (*i.e.
 La structure de l'objet *iface* est une classe de type *QgsInterface*. Cette classe est représentée dans la figure ci-dessus. On peut donc voir qu'une application QGis (représenté par *iface*) peut avoir plusieurs canvas.
 
 
-**Combien y'a-t-il de canvas ouvert dans votre application ?**
+**Question: Combien y'a-t-il de canvas ouvert dans votre application ?**
 
 *Solution:*
 
@@ -28,7 +28,8 @@ La structure de l'objet *iface* est une classe de type *QgsInterface*. Cette cla
     print (len(listCanvas))
 
 
-**Ajouter un nouveau canvas et modifier la couleur de fond.**
+<br/> 
+**Question: Ajouter un nouveau canvas et modifier la couleur de fond.**
 
 Pour construire une couleur avec un code RGB: <br/>
     
