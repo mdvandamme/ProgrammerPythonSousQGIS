@@ -7,6 +7,7 @@ Présentation générale
 ----------------------
 
 QGis a été développé à partir des librairies de l’OGR: GDAL/GEOS. La plupart de ces librairies sont développées en C++. Ces librairies se décomposent en 4  principales librairies complémentaires:
+
 #. GEOS : Geometry Engine Open Source (transformations géométriques des données en format vectoriel)
 #. GDAL : ensemble des fonctions consacré à la gestion et à la manipulation des rasters
 #. OGR : ensemble des fonctions de gestion des formats et des données sous le format vectoriel
