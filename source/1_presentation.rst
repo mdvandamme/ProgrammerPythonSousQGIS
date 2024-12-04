@@ -28,7 +28,7 @@ La structure de l'objet *iface* est une classe de type *QgsInterface*. Cette cla
     print (len(listCanvas))
 
 
-<br/> 
+
 **Question: Ajouter un nouveau canvas et modifier la couleur de fond.**
 
 Pour construire une couleur avec un code RGB: <br/>
