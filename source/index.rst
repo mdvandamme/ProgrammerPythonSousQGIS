@@ -5,17 +5,17 @@
 
 
 
-Welcome to pyqgis's documentation !
-====================================
+Bienvenue dans ce tutoriel pour apprendre la librairie python de QGIS !
+========================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    
    Introduction <0_started>
-   Première classe: Interface QGIS <1_presentation>
-   Les projets dans QGIS <2_projet>
-   
+   1. Première classe: Application QGIS <1_presentation>
+   2. Le projet QGIS <2_projet>
+   3. Documentation de l'API QGIS <3_doc_apiqgis>
 
 
 

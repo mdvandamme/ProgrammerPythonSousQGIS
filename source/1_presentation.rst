@@ -1,7 +1,7 @@
 
 
-Première classe: Application QGIS
-==================================
+1. Première classe: Application QGIS
+=====================================
 
 L'application QGIS est avant tout un logiciel. Son interface graphique est composée d'une zone de dessin, d'un menu et d'une barre de menu, d'une zone d'information (en mode caché quand il n'y a pas de message), de panneaux, etc. On appelle *canevas* de l'interface graphique de QGIS, la zone de dessin de QGIS, on l'appelle aussi la vue cartographique. Par défaut la vue cartographique est en 2D.
 
