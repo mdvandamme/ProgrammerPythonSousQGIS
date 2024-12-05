@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'pyqgis'
-copyright = '2024, Marie-Dominique Van Damme'
+copyright = '2024, https://creativecommons.org/licenses/by-nc-sa/4.0/'
 author = 'Marie-Dominique Van Damme'
 
 # The full version, including alpha/beta/rc tags
