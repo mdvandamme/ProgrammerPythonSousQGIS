@@ -25,6 +25,9 @@ author = 'Marie-Dominique Van Damme'
 release = '1.0'
 
 
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = "sphinx"
+
 html_logo = "_static/ENSG_GEOMATIQUE.png"
 
 # These are options specifically for the Wagtail Theme.
@@ -89,7 +92,8 @@ exclude_patterns = []
 #
 #  alabaster
 #html_theme = 'sphinx_wagtail_theme'
-html_theme = 'sphinx_book_theme'
+html_theme = 'pydata_sphinx_theme'
+# sphinx_book_theme
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
