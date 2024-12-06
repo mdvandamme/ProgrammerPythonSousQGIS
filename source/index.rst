@@ -13,13 +13,14 @@ Ce tutoriel est là (enfin j'espère) pour appréhender la programmation python 
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :caption: Table des matières
    
    
    Introduction <0_started>
-   1. Première classe: Application QGIS <1_presentation>
-   2. Le projet QGIS <2_projet>
-   3. Documentation de l'API QGIS <3_doc_apiqgis>
+   Première classe: Appl. QGIS <1_presentation>
+   Le projet QGIS <2_projet>
+   Documentation de l'API QGIS <3_doc_apiqgis>
 
 .. Create VectorLayer <5_creation>   
 

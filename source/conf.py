@@ -25,6 +25,7 @@ author = 'Marie-Dominique Van Damme'
 release = '1.0'
 
 
+html_logo = "_static/ENSG_GEOMATIQUE.png"
 
 # These are options specifically for the Wagtail Theme.
 html_theme_options = dict(
